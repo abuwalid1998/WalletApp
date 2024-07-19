@@ -1,6 +1,6 @@
 # Project Name
 
-![Vue Logo](https://vuejs.org/images/logo.png) ![Spring Logo](https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg)
+![wallet-money-cartoon](https://github.com/user-attachments/assets/3818ae7a-06c7-4dc3-aad2-d7f0acc3b0a1)
 
 ## Description
 
@@ -83,9 +83,5 @@ This project is a full-stack application that allows users to manage their Ether
 
 ## Contributors
 
-- [Your Name](https://github.com/your-username)
-- [Contributor Name](https://github.com/contributor-username)
+- Amjad Khaliliah
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
