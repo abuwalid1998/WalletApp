@@ -1,4 +1,4 @@
-# Project Name
+# Wallet App
 
 ![wallet-money-cartoon](https://github.com/user-attachments/assets/3818ae7a-06c7-4dc3-aad2-d7f0acc3b0a1)
 
